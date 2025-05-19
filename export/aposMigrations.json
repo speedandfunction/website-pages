@@ -1,0 +1,25 @@
+{"_id":"*lastPropLists","propLists":{"@apostrophecms/any-doc-type":["title","slug","visibility","archived"],"@apostrophecms/global":["primaryNav","primaryNav.menuItem","primaryNav.menuItem.linkTitle","primaryNav.menuItem.linkType","primaryNav.menuItem.customUrl","primaryNav.menuItem._page","primaryNav.menuItem.target","comAddress","footerLinks","footerLinks.footerLink","footerLinks.footerLink.linkTitle","footerLinks.footerLink.linkType","footerLinks.footerLink._page","footerLinks.footerLink._file","footerLinks.footerLink.customUrl","footerLinks.footerLink.target","socialMediaLinks","socialMediaLinks.SMLink","socialMediaLinks.SMLink.linkTitle","socialMediaLinks.SMLink.linkType","socialMediaLinks.SMLink._page","socialMediaLinks.SMLink._file","socialMediaLinks.SMLink.customUrl","socialMediaLinks.SMLink.target","footerForm","useRecaptcha","recaptchaSite","recaptchaSecret"],"@apostrophecms/polymorphic-type":["title","slug","visibility","archived"],"@apostrophecms/home-page":["slug","type","visibility","orphan","title","header","main"],"@apostrophecms/archive-page":["title","slug","type","visibility","orphan"],"@apostrophecms/search":["title","slug","type","visibility","orphan"],"@apostrophecms/any-page-type":["title","slug","visibility","archived"],"@apostrophecms/user":["title","username","email","password","slug","archived","disabled","role"],"@apostrophecms/image":["attachment","title","alt","_tags","credit","creditUrl","slug","archived"],"@apostrophecms/image-tag":["title","slug","archived"],"@apostrophecms/file":["title","attachment","description","credit","creditUrl","slug","_tags","archived"],"@apostrophecms/file-tag":["title","slug","archived"],"@apostrophecms/submitted-draft":["title","slug","visibility","archived","_type"],"@apostrophecms/form":["title","contents","slug","visibility","thankYouHeading","thankYouBody","sendConfirmationEmail","emailConfirmationField","submitLabel","enableRecaptcha","enableQueryParams","queryParamList","queryParamList.key","queryParamList.lengthLimit","archived"],"team-members":["title","position","order","slug","visibility","headshot","bio","archived"],"testimonials":["headshot","title","position","organization","_caseStudy","feedback","url","slug","visibility","archived"],"default-page":["slug","type","visibility","orphan","title","header","main"],"cases-tags":["title","description","_category","slug","visibility","archived"],"case-studies":["title","clientWebsite","picture","stack","caseStudyType","industry","portfolioTitle","descriptor","prodLink","_tags","slug","visibility","objective","challenge","solution","results","content","testimonials","archived"],"case-studies-page":["title","slug","type","visibility","orphan","main"],"categories":["title","description","slug","visibility","archived"]}}
+{"_id":"fix-length-property","at":{"$date":"2025-05-18T09:36:35.003Z"},"skipped":true}
+{"_id":"@apostrophecms/attachment.docReferencesContained","at":{"$date":"2025-05-18T09:36:35.003Z"},"skipped":true}
+{"_id":"svg-sanitization","at":{"$date":"2025-05-18T09:36:35.003Z"},"skipped":true}
+{"_id":"retire-published-field","at":{"$date":"2025-05-18T09:36:35.003Z"},"skipped":true}
+{"_id":"duplicate-or-missing-widget-id","at":{"$date":"2025-05-18T09:36:35.003Z"},"skipped":true}
+{"_id":"add-draft-published","at":{"$date":"2025-05-18T09:36:35.003Z"},"skipped":true}
+{"_id":"add lastPublishedAt to all published drafts without it","at":{"$date":"2025-05-18T09:36:35.003Z"},"skipped":true}
+{"_id":"add-last-published-to-published-docs","at":{"$date":"2025-05-18T09:36:35.003Z"},"skipped":true}
+{"_id":"add-apos-mode","at":{"$date":"2025-05-18T09:36:35.003Z"},"skipped":true}
+{"_id":"store-relationship-ids-as-apos-doc-ids","at":{"$date":"2025-05-18T09:36:35.003Z"},"skipped":true}
+{"_id":"add-cache-invalidated-at-field","at":{"$date":"2025-05-18T09:36:35.003Z"},"skipped":true}
+{"_id":"set-previous-docs-apos-mode","at":{"$date":"2025-05-18T09:36:35.003Z"},"skipped":true}
+{"_id":"set-document-modes","at":{"$date":"2025-05-18T09:36:35.003Z"},"skipped":true}
+{"_id":"remove-polymorphic-type-alias","at":{"$date":"2025-05-18T09:36:35.003Z"},"skipped":true}
+{"_id":"deduplicate-archive-rank","at":{"$date":"2025-05-18T09:36:35.003Z"},"skipped":true}
+{"_id":"fix-home-page-path","at":{"$date":"2025-05-18T09:36:35.003Z"},"skipped":true}
+{"_id":"rename-trash-to-archived","at":{"$date":"2025-05-18T09:36:35.003Z"},"skipped":true}
+{"_id":"misreplicated-parked-pages","at":{"$date":"2025-05-18T09:36:35.003Z"},"skipped":true}
+{"_id":"duplicate-parked-pages","at":{"$date":"2025-05-18T09:36:35.003Z"},"skipped":true}
+{"_id":"deduplicateRanks2","at":{"$date":"2025-05-18T09:36:35.003Z"},"skipped":true}
+{"_id":"missingLastPublishedAt","at":{"$date":"2025-05-18T09:36:35.003Z"},"skipped":true}
+{"_id":"search-index-fix","at":{"$date":"2025-05-18T09:36:35.003Z"},"skipped":true}
+{"_id":"deduplicate-widget-ids","at":{"$date":"2025-05-18T09:36:35.003Z"},"skipped":true}
+{"_id":"add-role-to-user","at":{"$date":"2025-05-18T09:36:35.003Z"},"skipped":true}
